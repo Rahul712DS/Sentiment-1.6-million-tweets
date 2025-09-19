@@ -120,6 +120,6 @@ print(model.predict(X_new))
 ## 👨‍💻 Author
 
 **Rahul Raj**
-📍 Jamshedpur, Jharkhand | [LinkedIn](#) | [GitHub](#)
+📍 Jamshedpur, Jharkhand | [LinkedIn](https://www.linkedin.com/in/rahul-raj-22534a14b/) | [GitHub](https://github.com/Rahul712DS)
 
 ---
