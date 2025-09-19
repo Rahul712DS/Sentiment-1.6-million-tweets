@@ -66,8 +66,8 @@ The goal is to build a machine learning model that can classify tweets into **po
 4. **Evaluation**
 
    * Accuracy used as metric
-   * Logistic Regression: \~XX% (fill actual score)
-   * SVM: \~YY% (fill actual score)
+   * Logistic Regression: 77.17% 
+   * SVM: 77.14%
 
 5. **Deployment-Ready**
 
