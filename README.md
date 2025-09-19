@@ -110,7 +110,7 @@ print(model.predict(X_new))
 
 ## 📎 Deliverables
 
-* Source code: `Sentimental_code.py`
+* Source code: `twitter_code.py`
 * Preprocessed dataset (pickle)
 * Trained models (`sentiment_model_lr.pkl`)
 * Documentation (this README)
